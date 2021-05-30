@@ -5,7 +5,8 @@
     "ethereum",
     "react",
     "workspaces",
-    "yarn"
+    "yarn",
+    "solidity"
   ],
   "private": true,
   "scripts": {
