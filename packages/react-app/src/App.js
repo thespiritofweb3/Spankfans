@@ -64,7 +64,7 @@ function App() {
         <Link href="https://ethereum.org/developers/#getting-started" style={{ marginTop: "8px" }}>
           Learn Ethereum
         </Link>
-        <Link href="https://reactjs.org">Learn React</Link>
+        <Link href="https://reactjs.org">Enter auction</Link>
         <Link href="https://thegraph.com/docs/quick-start">Learn The Graph</Link>
       </Body>
     </div>
