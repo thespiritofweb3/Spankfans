@@ -65,7 +65,7 @@ function App() {
           Be the change
         </Link>
         <Link href="https://reactjs.org">Enter auction</Link>
-        <Link href="https://thegraph.com/docs/quick-start">Learn The Graph</Link>
+        <Link href="https://thegraph.com/docs/quick-start">web3</Link>
       </Body>
     </div>
   );
