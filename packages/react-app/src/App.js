@@ -62,7 +62,7 @@ function App() {
           Read On-Chain Balance
         </Button>
         <Link href="https://ethereum.org/developers/#getting-started" style={{ marginTop: "8px" }}>
-          Learn Ethereum
+          Be the change
         </Link>
         <Link href="https://reactjs.org">Enter auction</Link>
         <Link href="https://thegraph.com/docs/quick-start">Learn The Graph</Link>
